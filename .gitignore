@@ -26,7 +26,10 @@
 *.orig
 *.meta
 *.unityPackage
+*.vcxproj.user
 obj/
 Binaries/
+BinariesX64/
+BinariesX86/
 XInputUnity/Library/
 Temp/
