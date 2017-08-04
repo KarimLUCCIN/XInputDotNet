@@ -24,6 +24,7 @@
 *.xcuserdatad
 *.orig
 *.unityPackage
+*.vcxproj.user
 obj/
 BinariesX86/
 BinariesX64/
